@@ -1,0 +1,47 @@
+---
+layout: default
+title: Study Topics - Nursing
+---
+
+# VIDEOS AND ARTICLES - FOR STUDY / REVIEW
+
+## Urinary System
+[Kidney and Nephron Anatomy Structure Function | Renal Function System - YouTube](https://www.youtube.com/watch?v=0qZxw0Nd1lI&themeRefresh=1)  
+[The Urinary System - YouTube](https://www.youtube.com/watch?v=fEUndCU6uLk&themeRefresh=1)  
+[Renal | Filtration, Reabsorption, and Secretion: Overview - YouTube](https://www.youtube.com/watch?v=rwZIT_N75Bs&themeRefresh=1)  
+[The Urinary System - YouTube](https://www.youtube.com/watch?v=H2VkW9L5QSU&themeRefresh=1)  
+[Renal System - Overview - YouTube](https://www.youtube.com/watch?v=ZvHCKt2BJHg)  
+[Urinary System | Structure, Function, Plastinated Kidney and Bladder, 3D Model - YouTube](https://www.youtube.com/watch?v=70q0ccJGp_k&themeRefresh=1)  
+[Nephrons - Filtration and Reabsorption Basics - YouTube](https://www.youtube.com/watch?v=OEzKQmqV2WQ)  
+[Excretory System and the Nephron - YouTube](https://www.youtube.com/watch?v=q5qaGHfdmYM&themeRefresh=1)
+
+## Cardiovascular System
+[The Cardiac Cycle Song - YouTube](https://www.youtube.com/watch?v=tO_jryZbVVA)  
+[Heart Conduction System & ECG (EKG) - YouTube](https://www.youtube.com/watch?v=JjGMGmf4WH4)  
+[The Heart, Part 1 - Under Pressure: Crash Course Anatomy & Physiology #25 - YouTube](https://www.youtube.com/watch?v=X9ZZ6tcxArI)  
+[The Heart, Part 2 - Heart Throbs: Crash Course Anatomy & Physiology #26 - YouTube](https://www.youtube.com/watch?v=FLBMwcvOaEo)  
+[Circulatory System | Pulmonary Circulation - YouTube](https://www.youtube.com/watch?v=aJPwUnZtycQ)  
+[Coronary Arteries Made Easy: Learn & Never Forget - YouTube](https://www.youtube.com/watch?v=WpMN7C7H8r8)  
+[Heart failure | Left versus Right Side Heart Failure - YouTube](https://www.youtube.com/watch?v=YYaE3q1FNfc)
+
+## Head-Toe Assessment
+[How Doctors Use Stethoscopes | The Doctor's Toolkit - YouTube](https://www.youtube.com/watch?v=BIygVkBwcxU)  
+[Head-to-Toe Assessment Nursing | Nursing Physical Health Assessment Exam Skills - YouTube](https://www.youtube.com/watch?v=gG8kh8MfnGY)  
+[Head to Toe Assessment Nursing Guide: Complete Physical Assessment | Mini Lesson Series - YouTube](https://www.youtube.com/watch?v=K4747smFf8Q)  
+[Respiratory Examination | OSCE Guide | UKMLA | CPSA | PLAB 2 - YouTube](https://www.youtube.com/watch?v=q6w3CClfhdk)
+
+## Medical Tests (Articles)
+[Electrolyte Panel: What It Is, Purpose, Procedure & Results](https://my.clevelandclinic.org/health/diagnostics/22358-electrolyte-panel)  
+[Blood Urea Nitrogen (BUN): Testing, Levels & Indication](https://my.clevelandclinic.org/health/diagnostics/17684-blood-urea-nitrogen-bun-test)  
+[Creatinine Clearance Test: Purpose, Levels & Results](https://my.clevelandclinic.org/health/diagnostics/16380-creatinine-clearance-test)  
+[Blood Glucose (Sugar) Test: Levels & What They Mean](https://my.clevelandclinic.org/health/diagnostics/12363-blood-glucose-test)  
+[Hematocrit Test: What It Is, Levels, and High & Low Range](https://my.clevelandclinic.org/health/diagnostics/17683-hematocrit)  
+[Complete Blood Count (CBC): What It Is & Normal Ranges](https://my.clevelandclinic.org/health/diagnostics/4053-complete-blood-count)
+
+## Youtube Channels
+[Dr Matt & Dr Mike - YouTube](https://www.youtube.com/@DrMattDrMike)  
+[Siebert Science - YouTube](https://www.youtube.com/@SiebertScience)  
+[RegisteredNurseRN - YouTube](https://www.youtube.com/@RegisteredNurseRN)
+
+## Others
+[Music Playlist - Assorted](https://www.youtube.com/watch_videos?video_ids=IG1_gQF31z0,U8rGEOlWeVk,eWLy_4D3L3E,6dUbtl_-_v0,4bwnO0FQp1s,IYiY5oVmrzo,slUhVTAznMo,kRJKB291Z1g,xB-RZqcoIgo,nn_0zPAfyo8,5NHLXMBDum4,KSzCwOtWI-s,cKsAj_-Whws,gPxxzmOcZMU,WwO3ChcaxO0,iJ_N4CJr5oM,JSD4XCBWzvs,DXt6EGHFkWc,dOKaC-w8XpU,j0W78dgSLEc)
